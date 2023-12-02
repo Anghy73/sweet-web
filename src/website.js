@@ -61,7 +61,7 @@ const createMain = () => {
 const footer = () => {
   const footer = document.createElement('footer');
   footer.classList.add('footer')
-  footer.innerHTML = '<p class="footer__create" >Create by <a class="footer__link" href="" target="_blank">Andy</a></p>'
+  footer.innerHTML = '<p class="footer__create" >Create by <a class="footer__link" href="https://github.com/Anghy73" target="_blank">Andy</a></p>'
   return footer
 }
 
